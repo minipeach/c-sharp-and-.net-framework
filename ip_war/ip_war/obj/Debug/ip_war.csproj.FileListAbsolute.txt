@@ -1,0 +1,8 @@
+f:\Visual Studio 2008\Projects\ip_war\ip_war\bin\Debug\ip_war.exe
+f:\Visual Studio 2008\Projects\ip_war\ip_war\bin\Debug\ip_war.pdb
+f:\Visual Studio 2008\Projects\ip_war\ip_war\obj\Debug\ResolveAssemblyReference.cache
+f:\Visual Studio 2008\Projects\ip_war\ip_war\obj\Debug\ip_war.Form1.resources
+f:\Visual Studio 2008\Projects\ip_war\ip_war\obj\Debug\ip_war.Properties.Resources.resources
+f:\Visual Studio 2008\Projects\ip_war\ip_war\obj\Debug\ip_war.csproj.GenerateResource.Cache
+f:\Visual Studio 2008\Projects\ip_war\ip_war\obj\Debug\ip_war.exe
+f:\Visual Studio 2008\Projects\ip_war\ip_war\obj\Debug\ip_war.pdb
