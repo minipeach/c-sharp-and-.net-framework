@@ -1,0 +1,9 @@
+F:\Visual Studio 2008\Projects\filename\filename\obj\Release\ResolveAssemblyReference.cache
+F:\Visual Studio 2008\Projects\filename\filename\obj\Release\filename.Form1.resources
+F:\Visual Studio 2008\Projects\filename\filename\obj\Release\filename.csproj.GenerateResource.Cache
+F:\Visual Studio 2008\Projects\filename\filename\bin\Release\imgmod.exe.config
+F:\Visual Studio 2008\Projects\filename\filename\bin\Release\imgmod.exe
+F:\Visual Studio 2008\Projects\filename\filename\bin\Release\imgmod.pdb
+F:\Visual Studio 2008\Projects\filename\filename\obj\Release\imgmod.Properties.Resources.resources
+F:\Visual Studio 2008\Projects\filename\filename\obj\Release\imgmod.exe
+F:\Visual Studio 2008\Projects\filename\filename\obj\Release\imgmod.pdb

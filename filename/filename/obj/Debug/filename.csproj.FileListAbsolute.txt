@@ -1,0 +1,8 @@
+F:\Visual Studio 2008\Projects\filename\filename\bin\Debug\filename.exe
+F:\Visual Studio 2008\Projects\filename\filename\bin\Debug\filename.pdb
+F:\Visual Studio 2008\Projects\filename\filename\obj\Debug\ResolveAssemblyReference.cache
+F:\Visual Studio 2008\Projects\filename\filename\obj\Debug\filename.Form1.resources
+F:\Visual Studio 2008\Projects\filename\filename\obj\Debug\filename.Properties.Resources.resources
+F:\Visual Studio 2008\Projects\filename\filename\obj\Debug\filename.csproj.GenerateResource.Cache
+F:\Visual Studio 2008\Projects\filename\filename\obj\Debug\filename.exe
+F:\Visual Studio 2008\Projects\filename\filename\obj\Debug\filename.pdb
